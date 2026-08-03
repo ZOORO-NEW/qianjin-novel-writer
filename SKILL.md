@@ -1,7 +1,10 @@
 ---
+slug: qianjin-novel-writer
+displayName: 网文小说写作
+summary: "网文/小说写作专家技能。当用户需要创作网络小说、规划小说大纲、设计人物与世界观、撰写爆款章节、构思反转与权谋斗争、或需要番茄小说/起点中文/知乎盐选等平台爆款方法论时，使用此技能。擅长科幻脑洞、系统流金手指、情感催泪与多层反转，兼顾平..."
 name: qianjin-novel-writer
 description: 网文/小说写作专家技能。当用户需要创作网络小说、规划小说大纲、设计人物与世界观、撰写爆款章节、构思反转与权谋斗争、或需要番茄小说/起点中文/知乎盐选等平台爆款方法论时，使用此技能。擅长科幻脑洞、系统流金手指、情感催泪与多层反转，兼顾平台爽感与文学文采。
-version: "1.0"
+version: 1.0.0
 category: 内容创作
 platforms: [workbuddy, claude-code, cursor, windsurf, codex]
 author: qianjin
