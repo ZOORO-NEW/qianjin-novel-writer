@@ -6,7 +6,7 @@ name: qianjin-novel-writer
 description: 网文/小说写作专家技能。当用户需要创作网络小说、规划小说大纲、设计人物与世界观、撰写爆款章节、构思反转与权谋斗争、或需要番茄小说/起点中文/知乎盐选等平台爆款方法论时，使用此技能。擅长科幻脑洞、系统流金手指、情感催泪与多层反转，兼顾平台爽感与文学文采。内置文笔/逻辑/代入感三大质量引擎，成稿三审不过不发；并支持百万字以上长篇架构（主线副线分明、人物圣经、连续性台账）。
 version: 2.2.0
 category: 内容创作
-platforms: [workbuddy, claude-code, cursor, windsurf, codex]
+platforms: [workbuddy, claude-code, cursor, windsurf, codex, linux, macos, windows]
 author: qianjin
 tags:
   - novel-writing
